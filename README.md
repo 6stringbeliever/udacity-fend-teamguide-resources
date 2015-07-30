@@ -23,9 +23,14 @@ A collection of resources for the Front-End Web Developer Nanodegree.
 
 ## General, Et Cetera
 
+### Inspiration
+
+* [Making Badass Developers by Kathy Sierra](https://www.youtube.com/watch?v=FKTxC9pl-WM) - Great video on how to learn. Kathy Sierra is awesome.
+
 ### IDEs and Text Editors
 
 * [WebStorm](https://www.jetbrains.com/webstorm/) - My team has some serious love for WebStorm.
+* [Atom.io](httpp://atom.io) - I love Atom. Sorry.
 
 # Contributing
 
