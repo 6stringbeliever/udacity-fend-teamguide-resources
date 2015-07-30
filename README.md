@@ -30,7 +30,7 @@ A collection of resources for the Front-End Web Developer Nanodegree.
 ### IDEs and Text Editors
 
 * [WebStorm](https://www.jetbrains.com/webstorm/) - My team has some serious love for WebStorm.
-* [Atom.io](httpp://atom.io) - I love Atom. Sorry.
+* [Atom.io](https://atom.io/) - I love Atom. Sorry.
 
 # Contributing
 
