@@ -38,6 +38,7 @@ A collection of resources for the Front-End Web Developer Nanodegree.
 ### Inspiration
 
 * [Making Badass Developers by Kathy Sierra](https://www.youtube.com/watch?v=FKTxC9pl-WM) - Great video on how to learn. Kathy Sierra is awesome.
+* [Hi. I'm Jacob. And I'm a mediocre programmer.](https://www.youtube.com/watch?v=hIJdFxYlEKE) - Jacob Kaplan-Moss' PyCon 2015 keynote. Jacob is one of the core contributors to the Django framework and works at Heroku.
 
 ### IDEs and Text Editors
 
