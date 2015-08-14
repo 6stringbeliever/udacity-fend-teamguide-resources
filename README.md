@@ -8,6 +8,7 @@ A collection of resources for the Front-End Web Developer Nanodegree.
 
 ## Responsive Design
 
+* [This is Resonsive](https://bradfrost.github.io/this-is-responsive/index.html) - Basically, everything you need to know about responsive design and tons of tools to help you out are right here.
 * [Responsive Images in Practice on A List Apart](http://alistapart.com/article/responsive-images-in-practice) - Great examples of srcset and the picture element.
 
 ## Git and GitHub
@@ -19,6 +20,10 @@ A collection of resources for the Front-End Web Developer Nanodegree.
 ## Object-Oriented JavaScript
 
 ## Web Performance Optimization
+
+* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Your primary tool for optimizing the critical rendering path in project 4.
+* [WebPageTest](http://www.webpagetest.org/) - Another great tool for checking your page. Best feature is that it will provide screenshots showing your page render in sequence.
+* [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/?hl=en) - Good reference material for the ideas in the course (authored by your instructor, Ilya Grigorik)
 
 ## Design Patterns
 
