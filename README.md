@@ -15,7 +15,7 @@ A collection of resources for the Front-End Web Developer Nanodegree.
 
 ## Responsive Design
 
-* [This is Resonsive](https://bradfrost.github.io/this-is-responsive/index.html) - Basically, everything you need to know about responsive design and tons of tools to help you out are right here.
+* [This is Responsive](https://bradfrost.github.io/this-is-responsive/index.html) - Basically, everything you need to know about responsive design and tons of tools to help you out are right here.
 * [Responsive Images in Practice on A List Apart](http://alistapart.com/article/responsive-images-in-practice) - Great examples of srcset and the picture element.
 
 ## Git and GitHub
@@ -54,4 +54,4 @@ A collection of resources for the Front-End Web Developer Nanodegree.
 
 # Contributing
 
-I would love contritbutions from members of my nanodegree team or other team guides. Feel free to send a pull request. Just try to follow the format of the other links above.
+I would love contributions from members of my nanodegree team or other team guides. Feel free to send a pull request. Just try to follow the format of the other links above.
