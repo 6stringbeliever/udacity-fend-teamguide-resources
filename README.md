@@ -26,6 +26,8 @@ A collection of resources for the Front-End Web Developer Nanodegree.
 
 ## Object-Oriented JavaScript
 
+* [Encapsulation in JavaScript](http://www.codeproject.com/Articles/108786/Encapsulation-in-JavaScript) - From our discussion of whether JavaScript is truly an object oriented language.
+
 ## Web Performance Optimization
 
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Your primary tool for optimizing the critical rendering path in project 4.
