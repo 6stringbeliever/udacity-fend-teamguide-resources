@@ -6,6 +6,7 @@ A collection of resources for the Front-End Web Developer Nanodegree.
 * [From Table Hacks to CSS Layout](http://alistapart.com/article/journey) - This is why we don't use tables for layout.
 * [Can I Use](http://caniuse.com/) - Helps you figure out which cutting edge HTML5 and CSS3 features are supported in which browsers. Invaluable.
 * [CSS Guidelines](http://cssguidelin.es/) - CSS guru Harry Robert's on principles and style for writing CSS.
+* [HTML5 Boilerplate](https://html5boilerplate.com/) - A great starting point for any web project. This is also good to look at to see how other structure the files in their projects.
 
 ### Organizing Principles for CSS
 
@@ -43,6 +44,8 @@ A collection of resources for the Front-End Web Developer Nanodegree.
 ## JavaScript Testing with Jasmine
 
 ## General, Et Cetera
+
+* [Front End Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - Great list of questions to study before an interview. You don't need to know everything, but it's a good, broad guide and can help you see what areas you may want to brush up on.
 
 ### Inspiration
 
