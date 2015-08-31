@@ -7,6 +7,7 @@ A collection of resources for the Front-End Web Developer Nanodegree.
 * [Can I Use](http://caniuse.com/) - Helps you figure out which cutting edge HTML5 and CSS3 features are supported in which browsers. Invaluable.
 * [CSS Guidelines](http://cssguidelin.es/) - CSS guru Harry Robert's on principles and style for writing CSS.
 * [HTML5 Boilerplate](https://html5boilerplate.com/) - A great starting point for any web project. This is also good to look at to see how other structure the files in their projects.
+* [Developer's Guide to HTML5 Canvas](https://msdn.microsoft.com/en-us/hh534406) - A good article for getting started with HTML5 Canvas. Additional resources at the bottom of the page.
 
 ### Organizing Principles for CSS
 
@@ -20,6 +21,8 @@ A collection of resources for the Front-End Web Developer Nanodegree.
 * [Responsive Images in Practice on A List Apart](http://alistapart.com/article/responsive-images-in-practice) - Great examples of srcset and the picture element.
 
 ## Git and GitHub
+
+* [Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) - Downloadable cheat sheet to keep the important commands at your fingertips.
 
 ## JavaScript
 
