@@ -40,11 +40,18 @@ A collection of resources for the Front-End Web Developer Nanodegree.
 
 ## Design Patterns
 
+* [To Do MVC](http://todomvc.com) - Examples of the same To Do app built in various front-end MV* frameworks. A great way to get an idea of the differences between various frameworks and see which ones work the way your brain works.
 * [Client Side MVC's Major Bug](http://timkadlec.com/2015/02/client-side-templatings-major-bug/) - Read this after you've taken the course and spent some time using Knockout.js.
 
 ## Knockout.js
 
+* [Knockout.js](http://knockoutjs.com) - Download, documentation, and tutorials for Knockout.
+* [Pro Tips for Observable Arrays](http://www.strathweb.com/2012/07/knockout-js-pro-tips-working-with-observable-arrays/) - Some hints on getting better performance out of arrays in Knockout.
+
 ## JavaScript Testing with Jasmine
+
+* [Jasmine](http://jasmine.github.io) - Jasmine site.
+* [How Do I Jasmine](http://evanhahn.com/how-do-i-jasmine/) - A great tutorial for getting started on Jasmine.
 
 ## General, Et Cetera
 
