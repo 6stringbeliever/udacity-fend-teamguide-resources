@@ -37,6 +37,9 @@ A collection of resources for the Front-End Web Developer Nanodegree.
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Your primary tool for optimizing the critical rendering path in project 4.
 * [WebPageTest](http://www.webpagetest.org/) - Another great tool for checking your page. Best feature is that it will provide screenshots showing your page render in sequence.
 * [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/?hl=en) - Good reference material for the ideas in the course (authored by your instructor, Ilya Grigorik)
+* [Grunt](http://gruntjs.com/) - The official Grunt page.
+* [Gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md) - The official gulp repository in GitHub.
+* [Grunt and Gulp](http://www.codeproject.com/Articles/1011124/How-to-Grunt-and-Gulp-your-way-to-Workflow-Automat) - A guide to get started with Grunt and Gulp.
 
 ## Design Patterns
 
