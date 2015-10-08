@@ -27,6 +27,7 @@ A collection of resources for the Front-End Web Developer Nanodegree.
 ## JavaScript
 
 * [JSONLint](http://jsonlint.com/) - Check to make sure that you're writing valid JSON.
+* [Strict Mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode) - Using strict mode is a good practice to make it harder for you to make silly mistakes.
 
 ## Object-Oriented JavaScript
 
