@@ -28,6 +28,7 @@ A collection of resources for the Front-End Web Developer Nanodegree.
 
 * [JSONLint](http://jsonlint.com/) - Check to make sure that you're writing valid JSON.
 * [Strict Mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode) - Using strict mode is a good practice to make it harder for you to make silly mistakes.
+* [IIFE Overview](http://toddmotto.com/what-function-window-document-undefined-iife-really-means/) - A good look at what IIFEs are, why they are good, and some common patterns you'll see.
 
 ## Object-Oriented JavaScript
 
